@@ -1,4 +1,4 @@
-- 👋 Ola, Sou @AlexSaBackend
+- 👋 Ola, Sou Alex
 - 👀 Estou interessado em criar projetos backend
 - 🌱 Atualmente estou aprendendo Java
 - 📫 Contato: Alexxnascimentoo@hotmail.com
