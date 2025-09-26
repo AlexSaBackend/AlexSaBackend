@@ -1,6 +1,6 @@
 - 👋 Ola, Sou Alex
 - 👀 Estou interessado em criar projetos backend
-- 🌱 Atualmente estou aprendendo Java
+- Ferramentas: C#, Golang, Angular
 - 📫 Contato: Alexxnascimentoo@hotmail.com
 - ⚡ Estudante em Analise e desenvolvimento de sistemas
 
