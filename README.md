@@ -1,6 +1,5 @@
 - 👋 Ola, Sou Alex
-- 👀 Estou interessado em criar projetos backend
-- Ferramentas: Python, Java, SQL, Git.
+- Ferramentas: Java, SQL, Git.
 - 📫 Contato: Alexxnascimentoo@hotmail.com
 - ⚡ Estudante em Analise e desenvolvimento de sistemas
 
